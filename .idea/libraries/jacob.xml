@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jacob">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/jacob-1.18-M2/jacob-1.18-M2/jacob.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/Desktop/jacob-1.18-M2/jacob-1.18-M2" />
+      <root url="file://$USER_HOME$/Desktop/jacob-1.18-M2/jacob-1.18-M2" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>

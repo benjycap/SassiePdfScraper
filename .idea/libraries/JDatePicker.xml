@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="JDatePicker">
+    <CLASSES>
+      <root url="file://$USER_HOME$/libs/JDatePicker" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/libs/JDatePicker" recursive="false" />
+  </library>
+</component>
